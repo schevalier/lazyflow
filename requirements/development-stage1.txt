@@ -1,6 +1,6 @@
 distribute==0.6.24
 nose==1.1.2
-numpy==1.6.2
+numpy==1.22.0
 cython==0.16
 psutil==0.6.1
 greenlet==0.4.0
